@@ -7,6 +7,17 @@ div {
   display: block;
 }
 
+.div heading {
+  text-align: center;
+}
+
 .div subheading {
+  text-align: center;
   color: orange;
+}
+
+.div subheading2 {
+  text-align: center;
+  color: gray;
+  font-style: italic;
 }
