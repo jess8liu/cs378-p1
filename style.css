@@ -7,6 +7,16 @@ div {
   display: block;
 }
 
-.center {
-  text-align: center
+h1 {
+  display: block;
+  color: orange;
+  text-align: center;
+  
+}
+
+h2 {
+  display: block;
+  color: gray;
+  text-align: center;
+  font-style: italic;
 }
