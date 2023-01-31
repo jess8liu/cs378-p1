@@ -20,3 +20,7 @@ h2.motto {
   text-align: center;
   font-style: italic;
 }
+
+img.food {
+  padding: 4px;
+}
