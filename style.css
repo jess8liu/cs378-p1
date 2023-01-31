@@ -7,14 +7,14 @@ div {
   display: block;
 }
 
-h1 .motto {
+h1.motto {
   display: block;
   color: orange;
   text-align: center;
   
 }
 
-h2 .motto {
+h2.motto {
   display: block;
   color: gray;
   text-align: center;
