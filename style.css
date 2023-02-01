@@ -26,29 +26,38 @@ div.menu-item {
 div.menu-img {
   background-image: url("https://images.kitchenstories.io/wagtailOriginalImages/R2675-final-photo-_2.jpg");
   background-size: cover;
-  display: inline-block;
+  display: inline;
   border: 1px dotted black;
-  width: 50px;
-  padding-bottom: 50px;
+  width: 10%;
+  padding-bottom: 10%;
+  float: left;
 }
 
 div.menu-txt {
-  display: inline;
+  display: block;
+  align-items: center;
   border: 1px dotted black;
+  height: auto;
 }
 
 div.menu-name {
   display: inline-block;
   border: 1px dotted black;
   text-align: left;
-  width: 70%;
+  width: 80%;
 }
 
 div.menu-price {
   display: inline-block;
   border: 1px dotted black;
   text-align: right;
-  width: 25%;
+  width: 5%;
+}
+
+div.menu-button {
+  display: block;
+  border: 1px dotted black;
+  width: 100%;
 }
 
 h1.motto {
@@ -71,6 +80,19 @@ img.title {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+button.order {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 
 p.menu-txt {
