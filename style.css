@@ -12,6 +12,10 @@ div.menu-item {
 }
 
 div.menu-item-img {
+  background-image: url("https://images.kitchenstories.io/wagtailOriginalImages/R2675-final-photo-_2.jpg");
+  background-size: 150px;
+  width: 300px;
+  height: 300px;
   display: inline-block;
   border: 1px dotted black;
 }
@@ -41,4 +45,5 @@ h2.motto {
 
 img.food {
   padding: 4px;
+  width: 400px,
 }
