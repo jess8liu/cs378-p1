@@ -13,7 +13,7 @@ div.menu-item {
 
 div.menu-item-img {
   background-image: url("https://images.kitchenstories.io/wagtailOriginalImages/R2675-final-photo-_2.jpg");
-  background-size: contain;
+  background-size: cover;
   display: inline-block;
   border: 1px dotted black;
   width: 30px;
