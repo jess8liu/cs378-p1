@@ -7,11 +7,29 @@ div {
   display: block;
 }
 
+div.menu-item {
+  display: block;
+}
+
+div.menu-item-img {
+  display: inline-block;
+  border: 1px dotted black;
+}
+
+div.menu-item-name {
+  display: inline-block;
+  border: 1px dotted black;
+}
+
+div.menu-item-price {
+  display: inline-block;
+  border: 1px dotted black;
+}
+
 h1.motto {
   display: block;
   color: orange;
   text-align: center;
-  
 }
 
 h2.motto {
@@ -23,5 +41,4 @@ h2.motto {
 
 img.food {
   padding: 4px;
-  width: 200px;
 }
