@@ -43,8 +43,12 @@ div.menu-img {
   float: left;
 }
 
-div.menu-txt {
+div.menu-label {
   display: inline;
+}
+
+div.menu-txt {
+  display: block;
   align-items: center;
   border: 1px dotted black;
   height: auto;
@@ -76,7 +80,7 @@ div.menu-button {
 h1.motto {
   display: block;
   color: orange;
-  font-size: 5vw;
+  font-size: 4vw;
   text-align: center;
 }
 
