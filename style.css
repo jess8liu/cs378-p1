@@ -44,7 +44,7 @@ div.menu-img {
 }
 
 div.menu-txt {
-  display: block;
+  display: inline-block;
   align-items: center;
   border: 1px dotted black;
   height: auto;
@@ -55,6 +55,7 @@ div.menu-name {
   border: 1px dotted black;
   text-align: left;
   width: 80%;
+  padding: 2px;
 }
 
 div.menu-price {
@@ -62,25 +63,27 @@ div.menu-price {
   border: 1px dotted black;
   text-align: right;
   width: 5%;
+  padding: 2px;
 }
 
 div.menu-button {
   display: block;
   border: 1px dotted black;
   width: 100%;
+  padding: 2px;
 }
 
 h1.motto {
   display: block;
   color: orange;
-  font-size: 2.5vw;
+  font-size: 3vw;
   text-align: center;
 }
 
 h2.motto {
   display: block;
   color: gray;
-  font-size: 2vw;
+  font-size: 2.5vw;
   text-align: center;
   font-style: italic;
 }
