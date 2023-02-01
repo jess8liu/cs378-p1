@@ -16,20 +16,21 @@ div.menu-item-img {
   background-size: contain;
   display: inline-block;
   border: 1px dotted black;
-  width: 20%;
+  width: 30px;
+  height: 30px;
 }
 
 div.menu-item-name {
   display: inline-block;
   border: 1px dotted black;
-  text-align: right;
+  text-align: left;
   width: 70%;
 }
 
 div.menu-item-price {
   display: inline-block;
   border: 1px dotted black;
-  text-align: left;
+  text-align: right;
   width: 10%;
 }
 
