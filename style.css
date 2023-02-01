@@ -7,6 +7,16 @@ div {
   display: block;
 }
 
+div.heading {
+  align-items: center;
+  align-self: center;
+}
+
+div.subheading {
+  padding: 15px;
+  align-items: center;
+}
+
 div.container {
   display: block;
   border: dashed 1px black;
