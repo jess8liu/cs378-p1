@@ -54,12 +54,14 @@ div.menu-price {
 h1.motto {
   display: block;
   color: orange;
+  font-size: 2.5vw;
   text-align: center;
 }
 
 h2.motto {
   display: block;
   color: gray;
+  font-size: 2vw;
   text-align: center;
   font-style: italic;
 }
@@ -69,4 +71,9 @@ img.title {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+p.menu-txt {
+  font-size: 1.5vw;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
